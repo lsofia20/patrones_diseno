@@ -26,6 +26,7 @@ public class Main {
                                       "1. Cambiar estado a: Sin enviar\n"+
                                       "2. Cambiar estado a: En camino\n"+
                                       "3. Cambiar estado a: Entregado\n"+
+                                      "4. Ver estado \n"+
                                       "0. Salir");
         
         opcion=Integer.parseInt(x);
