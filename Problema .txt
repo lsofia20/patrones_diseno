@@ -1,0 +1,2 @@
+Problema estado (State): Una empresa de envios de productos quiere modificar y ver los estados de un
+paquete hasta que sea entregado.
